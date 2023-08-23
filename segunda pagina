@@ -23,7 +23,7 @@
     </font>
 
     <form name="Formulario" method="post" action=""> 
-        <table cellspacing="20">
+        <table cellspacing="20" >
             <tr>
                 <td>Nome :</td>
                 <td><input type="text" name="nome" id="nome" size="40" required placeholder="Digite seu nome"></td>
@@ -90,6 +90,10 @@
                 </td>
             </tr>
 
+            <tr> 
+                <td> <input type="reset" name="limpar" id="limpar" value="LIMPAR"></td>
+                <td> <input type="submit" name="enviar" id="enviar" value="ENVIAR"</td>
+            </tr>
 
         </table>
         
