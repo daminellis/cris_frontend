@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cursos livres - Click Sense</title>
+    <style>
+        .texto {
+            width: 90%;
+            float: left;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://www1.satc.edu.br" target="_blank">
+        <img src="logo.png">       
+    </a>
+
+    <br> <br>
+    <font face="verdana" size="10">
+        <p> <u> <center> Cursos Livres SATC - Click Sense </center> </u> </p>
+    </font>
+    <div class="texto">
+        <font face="verdana" size="5">
+            A tecnologia associativa exclusiva da Qlik tem uma potência inigualável no centro de nossa experiência em analytics líder no setor.
+            Capacite todos os seus usuários a explorar livremente na velocidade do pensamento com cálculos ultra rápidos
+        </font>
+    </div>
+
+    <br> <br> 
+    
+    <div>
+        <center> <img src="clik.jpg" width="500" height="400" style="border: 5px solid #000000;"> </center>
+    </div>
+    
+    <div class="texto">
+        <font face="verdana" size="6">
+            Objetivo:
+        </font>
+        <font face="verdana" size="5">
+            Permitir a construção de visualizações para que as pessoas usuárias possam obter de maneira mais rápida 
+            e objetiva os dados que foram carregados no modelo de dados do Qlik Sense.
+        </font>
+    </div>
+
+    <br> <br>
+
+    <div class="texto">
+        <font face="verdana" size="6">
+            Conheça um pouco do curso:
+        </font>
+
+        <br> <br>
+
+        <font face="verdana" color="" size="5">       
+            <div style="width: 24%; float: left; padding: 20px; margin: 20px; background-color: #6ce761;">
+                <table border=3 bordercolor="#000000">
+                    <tr>
+                        <td  bgcolor="FFFFFF">Carga Horária</td>
+                        <td  bgcolor="FFFFFF">Método</td>
+                        <td  bgcolor="FFFFFF">Local</td>
+                    </tr>
+                    <tr>
+                        <td  bgcolor="FFFFFF">36 horas</td>
+                        <td  bgcolor="FFFFFF">presencial</td>
+                        <td  bgcolor="FFFFFF">Satc Criciúma</td>
+                    </tr>
+                </table>    
+            </div>
+
+            <div style="width: 100%; float: left; padding: 10px; margin: 20px; background-color: #6ce761;">
+                <table border=3 bordercolor="#000000">
+                    <tr>
+                        <td bgcolor="FFFFFF">Módulo 1</td>
+                        <td bgcolor="FFFFFF">Módulo 2</td>
+                        <td bgcolor="FFFFFF">Módulo 3</td>
+                        <td bgcolor="FFFFFF">Módulo 4</td>
+                        <td bgcolor="FFFFFF">Módulo 5</td>
+                        <td bgcolor="FFFFFF">Módulo 6</td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="FFFFFF">Introdução ao Qlik Sense</td>
+                        <td bgcolor="FFFFFF">Carregamento de dados</td>
+                        <td bgcolor="FFFFFF">Visualizações</td>
+                        <td bgcolor="FFFFFF">Análise de dados</td>
+                        <td bgcolor="FFFFFF">Publicação e compartilhamento de análises</td>
+                        <td bgcolor="FFFFFF">Administração do Qlik Sense</td>
+                    </tr>
+                </table>    
+            </div>
+        </font>
+    </div>
+
+    <br> <br>
+
+    <div class="texto">
+        <font face="verdana" size="6">
+            Um pouco dos preços:
+        </font>
+        <font face="verdana" size="5">
+            <p> Um investimento de R$980</p>
+            <p> 4 X DE 245 </p>
+            <p> em </p>
+            <p> <u> PIX, BOLETO, DÉBITO OU CRÉDITO </p> </u>   
+        </font>
+    </div>
+
+    <br> <br>
+    
+    <div class="texto">
+        <font face="verdana" size="6">
+            Faça sua inscrição:
+        </font>
+        <font face="verdana" size="5">
+            <a href="exercicio_1_form.html" target="_blank">
+                <p> Inscrição Aqui  </p> </a>
+        </font>
+    </div>
+    
+    <br> <br>
+
+    <div class="texto">
+        <font face="verdana" size="6">
+            Mais informações:
+        </font>
+        <font face="verdana" size="5">
+            <a href="mailto:comercial@satc.edu.br" target="_blank">
+            <p> E-mail Aqui  </p> </a>
+            <a href="https://wa.me/4834317542" target="_blank">
+            <p> Contato Aqui</p>
+            </a>
+        </font>
+    </div>
+
+</body>
+</html>
