@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Hotel belavista - ATIVIDADES</title>
+</head> 
+<body style="background-color: #627ce6;"> 
+
+  <div id="header">
+   <center> <img id="logo" src="logo.png" alt="Logo"> </center>
+  </div>
+  <br> <br>
+  
+  <div>
+    <font face="verdana" size="6"> 
+        <center><u>Conheça um pouco das atividades!</u></center>
+    </font>
+  </div>
+  
+  <br> <br>
+
+  <div>
+    <img src="atividade1.png" width="600" height="400" style="border: 5px solid #53adc8;">
+    <img src="atividade2.png" width="600" height="400" style="border: 5px solid #53adc8;"><br>
+    <img src="atividade3.png" width="600" height="400" style="border: 5px solid #53adc8;">
+  </div>
+
+  <br> <br> 
+
+  <div>
+    <font face="verdana" size="5">
+    Espaço 1: Um local para os pais deixarem as suas crianças brincando<br>
+    para terem um lazer sem se preocupar com seus pequenos.
+    <br> <br>    
+    Espaço 2: Academia para aqueles que gostam de se manter ativos mesmo<br>
+    quando estão longe de casa.
+    <br> <br>
+    Espaço 3: Piscina para aqueles que nao gostam das aguas salgadas do mar.
+    </font>
+  </div>
+  <br> <br> 
+
+  <font face="verdana" color="" size="6">     
+    </div>
+    <center><div id="nav">
+    <a href="#">Home</a>
+    ---- 
+    <a href="#">Ambientes</a>
+    ---- 
+    <a href="#">Atividades</a>
+    ---- 
+    <a href="#">Contato</a>
+    </div></center>
+
+</body>
+</html>
