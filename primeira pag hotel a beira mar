@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Hotel belavista - HOME</title>
+</head> 
+<body style="background-color: #627ce6;"> 
+
+  <div id="header">
+   <center> <img id="logo" src="logo.png" alt="Logo"> </center>
+  
+  <br> <br>
+  
+  <div>
+    <font face="verdana" size="6"> 
+        <center><u>Venha conhecer a melhor vista de itapema!</u></center>
+    </font>
+  </div>
+  
+  <br> <br>
+
+  <div>
+    <center> <img src="panorama.jpg" width="600" height="400" style="border: 5px solid #53adc8;"> </center>
+  </div>
+
+  <br> <br> 
+
+  <div>
+    <center>
+    <font face="verdana" size="5" color="">
+    Desfrute de uma experiência inigualável no nosso hotel à beira-mar, onde o luxo encontra as ondas.<br>
+    Com vistas panorâmicas do oceano a partir de cada janela, você será embalado pelo som suave das marés.<br>
+    Nossas suítes espaçosas e elegantemente decoradas oferecem um retiro sereno, enquanto nossas praias privativas<br>
+    convidam para momentos relaxantes sob o sol. Mergulhe na serenidade à beira-mar e entregue-se ao requinte e à beleza<br>
+    naturais que só um hotel como o nosso pode oferecer.
+    </font>
+    </center>
+  </div>
+
+  <br> <br>
+
+  <font face="verdana" color="" size="6">     
+    </div>
+    <center><div id="nav">
+    <a href="#">Home</a>
+    ---- 
+    <a href="#">Ambientes</a>
+    ---- 
+    <a href="#">Atividades</a>
+    ---- 
+    <a href="#">Contato</a>
+    </div></center>
+
+</body>
+</html>
