@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tela 1</title>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">Logo/Nome</div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="content">
+        <h1>Bem-vindo à Tela 1</h1>
+        <p>Esta é a tela de início.</p>
+    </div>
+</body>
+</html>
