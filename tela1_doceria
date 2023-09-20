@@ -9,9 +9,9 @@
 <body>
     <div class="div1">
         <h1>Doceria da Cris</h1>
-        <button href="tela1_doceria.html">Home</button>
-        <button href="tela2_doceria.html">Doces</button>
-        <button href="tela3_doceria.html">Encomendas</button>
+        <a href="tela1_doceria.html"><button>Home</button></a>
+        <a href="tela2_doceria.html"><button>Doces</button></a>
+        <a href="tela3_doceria.html"><button>Encomendas</button></a>
     </div>
 
     <div class="div2">
