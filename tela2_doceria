@@ -1,1 +1,87 @@
-.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="doceria_css.css"> <!-- Inclua o arquivo CSS -->
+    <title>Seu App Web</title>
+    <style>
+        /* Estilo para a imagem e o quadrado branco com texto */
+        .imagem-com-texto {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px; /* Espaçamento entre as linhas de imagens e texto */
+        }
+
+        .imagem-com-texto img {
+            max-width: 200px; /* Define o tamanho máximo das imagens */
+            margin-right: 20px; /* Espaçamento entre a imagem e o texto */
+        }
+
+        .imagem-com-texto .texto {
+            background-color: #ffffff; /* Cor de fundo branca */
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 18px; /* Tamanho da fonte do texto */
+        }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        <h1>Doceria da Cris</h1>
+        <a href="tela1_doceria.html"><button>Home</button></a>
+        <a href="tela2_doceria.html"><button>Doces</button></a>
+        <a href="tela3_doceria.html"><button>Encomendas</button></a>
+    </div>
+
+    <!-- Primeira imagem com texto -->
+    <div class="imagem-com-texto">
+        <img src="bolo_coco.png" alt="Bolo de coco">
+        <div class="texto">
+            <h2>Nome do Bolo 1</h2>
+            <p><strong>Legenda:</strong> Bolo de Coco</p>
+            <p>Descrição: Um bolo macio e úmido, repleto de sabor tropical de coco. Cada mordida é uma explosão de coco fresco, perfeito para os amantes dessa fruta. A cobertura é delicadamente enfeitada com flocos de coco torrado para um toque extra de textura e sabor.</p>
+        </div>
+    </div>
+
+    <!-- Segunda imagem com texto -->
+    <div class="imagem-com-texto">
+        <img src="bolo_maracuja.jpg" alt="Bolo de Maracujá">
+        <div class="texto">
+            <h2>Nome do Bolo 2</h2>
+            <p><strong>Legenda:</strong> Bolo de Maracujá</p>
+            <p>Descrição: Este bolo é uma combinação irresistível de doçura e acidez. A massa fofa é infundida com suco de maracujá natural, proporcionando um sabor vibrante e refrescante. A cobertura é suave e cremosa, com um toque cítrico que complementa perfeitamente o bolo.</p>
+        </div>
+    </div>
+
+    <!-- Terceira imagem com texto -->
+    <div class="imagem-com-texto">
+        <img src="bolo_limao.jpg" alt="Bolo de Limão">
+        <div class="texto">
+            <h2>Nome do Bolo 3</h2>
+            <p><strong>Legenda:</strong> Bolo de Limão</p>
+            <p>Descrição: O bolo de limão é uma escolha refrescante e cítrica. A massa leve é realçada com raspas de limão fresco e suco de limão, resultando em um sabor cítrico e equilibrado. A cobertura é uma camada fina de glacê de limão que adiciona um toque adocicado.</p>
+        </div>
+    </div>
+
+    <!-- Quarta imagem com texto -->
+    <div class="imagem-com-texto">
+        <img src="bolo_leite.jpg" alt="Bolo de Leite">
+        <div class="texto">
+            <h2>Nome do Bolo 4</h2>
+            <p><strong>Legenda:</strong> Bolo de Leite Condensado</p>
+            <p>Descrição: Para os amantes do doce, o bolo de leite condensado é uma delícia indulgente. A massa é encharcada com uma mistura de leite condensado cremoso, resultando em um bolo incrivelmente úmido e doce. A cobertura é simples, destacando o sabor do leite condensado.</p>
+        </div>
+    </div>
+
+    <!-- Quinta imagem com texto -->
+    <div class="imagem-com-texto">
+        <img src="bolo_chocolate.jpg" alt="Bolo de Chocolate">
+        <div class="texto">
+            <h2>Nome do Bolo 5</h2>
+            <p><strong>Legenda:</strong> Bolo de Chocolate</p>
+            <p>Descrição: Este é um clássico absoluto. O bolo de chocolate é rico, indulgente e satisfatório. A massa é feita com cacau de alta qualidade, proporcionando um sabor intenso de chocolate. A cobertura é um ganache de chocolate decadente que derrete na boca.</p>
+        </div>
+    </div>
+</body>
+</html>
