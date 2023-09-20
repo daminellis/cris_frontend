@@ -1,40 +1,55 @@
-/* styles.css */
+/* Estilo para o plano de fundo */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    background-image: url('doceria_bg2.jpg'); /* Substitua 'doceria_bg2.jpg' pelo caminho da sua imagem de plano de fundo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-.header {
-    background-color: #333;
-    color: #fff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-}
-
-.logo {
-    font-size: 24px;
-}
-
-.menu ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.menu ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-.menu ul li a {
-    text-decoration: none;
-    color: #fff;
-}
-
-.content {
+/* Estilo para a div1 (Nome do App e Botões) */
+.div1 {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo com transparência */
     padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px auto; /* Centralizar a div horizontalmente */
+    max-width: 600px; /* Largura máxima da div */
 }
 
+/* Estilo para os botões dentro da div1 */
+.div1 button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #0074d9; /* Cor de fundo dos botões */
+    color: #fff; /* Cor do texto dos botões */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Estilo para a div2 (Foto) */
+.div2 {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo com transparência */
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px auto; /* Espaçamento entre as divs */
+    max-width: 600px; /* Largura máxima da div */
+}
+
+/* Estilo para a imagem dentro da div2 */
+.div2 img {
+    max-width: 100%; /* Garante que a imagem não exceda a largura da div */
+    height: auto;
+}
+
+/* Estilo para o formulário com fundo branco */
+form {
+    background-color: #ffffff; /* Cor de fundo branca */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto; /* Espaçamento entre as divs */
+    max-width: 600px; /* Largura máxima do formulário */
+}
