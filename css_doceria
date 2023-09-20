@@ -14,6 +14,7 @@ body {
     border-radius: 10px;
     margin: 50px auto; /* Centralizar a div horizontalmente */
     max-width: 600px; /* Largura máxima da div */
+    font-size: 25px;
 }
 
 /* Estilo para os botões dentro da div1 */
@@ -26,7 +27,7 @@ body {
     border: none;
     border-radius: 5px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 30px;
 }
 
 /* Estilo para a div2 (Foto) */
@@ -53,3 +54,5 @@ form {
     margin: 20px auto; /* Espaçamento entre as divs */
     max-width: 600px; /* Largura máxima do formulário */
 }
+
+
